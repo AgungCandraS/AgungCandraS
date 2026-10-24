@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Agung Candra Saputra</title>
+  <desc id="desc">Banner biru dengan nama Agung Candra Saputra dan ilustrasi jendela aplikasi web serta desktop.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#C6D8FA" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="380" rx="16" fill="#EAF2FF"/>
+  <path d="M832 0H1264Q1280 0 1280 16V364Q1280 380 1264 380H832Z" fill="url(#grid)"/>
+  <path d="M832 0V380" stroke="#C6D8FA"/>
+  <rect x="50" y="48" width="12" height="12" rx="3" fill="#2455C7"/>
+  <text x="76" y="61" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2455C7">@AgungCandraS</text>
+  <g fill="#142D52" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">
+    <text x="46" y="170">Agung Candra</text>
+    <text x="46" y="250">Saputra</text>
+  </g>
+  <text x="50" y="323" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#38577F">Aplikasi web dan desktop.</text>
+  <g transform="translate(890 66)">
+    <rect x="38" y="0" width="250" height="192" rx="14" fill="#D7E5FF" stroke="#2455C7" stroke-width="2"/>
+    <path d="M38 38H288" stroke="#2455C7" stroke-width="2"/>
+    <circle cx="58" cy="19" r="4" fill="#2455C7"/>
+    <circle cx="74" cy="19" r="4" fill="#2455C7"/>
+    <rect x="0" y="70" width="250" height="192" rx="14" fill="#2455C7"/>
+    <path d="M0 108H250" stroke="#91B2FF" stroke-width="2"/>
+    <circle cx="20" cy="89" r="4" fill="#EAF2FF"/>
+    <circle cx="36" cy="89" r="4" fill="#EAF2FF"/>
+    <circle cx="52" cy="89" r="4" fill="#EAF2FF"/>
+    <path d="M65 150L38 176L65 202M185 150L212 176L185 202M143 142L109 211" stroke="#EAF2FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
