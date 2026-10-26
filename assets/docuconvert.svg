@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">DESKTOP / DOCUMENTS: Local processing</title>
+  <rect width="600" height="160" rx="12" fill="#202B3D"/>
+  <path d="M351 0V160" stroke="#AFCDF6" stroke-opacity=".15"/>
+  <rect x="28" y="44" width="7" height="7" rx="1" fill="#AFCDF6"/>
+  <text x="46" y="52" font-family="Consolas, monospace" font-size="18" fill="#AFCDF6">DESKTOP / DOCUMENTS</text>
+  <text x="28" y="101" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#AFCDF6">Local processing</text>
+
+      <rect x="390" y="28" width="72" height="94" rx="8" transform="rotate(-10 390 28)" fill="#30445F" stroke="#789AC4"/>
+      <path d="M476 39H510L532 62V130H476Z" fill="#AFCDF6"/>
+      <path d="M508 39V64H532M489 87H519M489 99H519M489 111H509" stroke="#202B3D" stroke-width="3"/>
+      <path d="M425 80H466M454 68L466 80L454 92" stroke="#F1F4F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

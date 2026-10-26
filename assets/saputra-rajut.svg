@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">COMMERCE / OPERATIONS: Made for craft</title>
+  <rect width="600" height="160" rx="12" fill="#34252E"/>
+  <path d="M351 0V160" stroke="#EDB9CE" stroke-opacity=".15"/>
+  <rect x="28" y="44" width="7" height="7" rx="1" fill="#EDB9CE"/>
+  <text x="46" y="52" font-family="Consolas, monospace" font-size="18" fill="#EDB9CE">COMMERCE / OPERATIONS</text>
+  <text x="28" y="101" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#EDB9CE">Made for craft</text>
+
+      <circle cx="465" cy="83" r="48" fill="#4D3543" stroke="#EDB9CE" stroke-width="2"/>
+      <path d="M424 61C449 51 487 69 503 107M419 77C444 63 478 86 487 125M424 100C449 82 460 99 468 131M437 43C467 40 499 64 511 85M430 116C448 113 457 99 460 85M449 39C448 49 442 59 435 63" stroke="#EDB9CE" stroke-width="2"/>
+      <path d="M440 64L502 19M477 52L528 29M503 19L509 15M528 29L535 26" stroke="#F4E4EC" stroke-width="3" stroke-linecap="round"/>
+</svg>

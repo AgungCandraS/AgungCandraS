@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">TRAVEL / BOOKING: Bandung Raya</title>
+  <rect width="600" height="160" rx="12" fill="#182C23"/>
+  <path d="M351 0V160" stroke="#D4F77D" stroke-opacity=".15"/>
+  <rect x="28" y="44" width="7" height="7" rx="1" fill="#D4F77D"/>
+  <text x="46" y="52" font-family="Consolas, monospace" font-size="18" fill="#D4F77D">TRAVEL / BOOKING</text>
+  <text x="28" y="101" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#D4F77D">Bandung Raya</text>
+
+      <path d="M386 115C385 48 515 132 520 59" stroke="#D4F77D" stroke-width="3" stroke-dasharray="5 7"/>
+      <circle cx="385" cy="115" r="8" fill="#D4F77D"/>
+      <path d="M520 30C492 30 492 64 520 87C548 64 548 30 520 30Z" fill="#D4F77D"/>
+      <circle cx="520" cy="49" r="7" fill="#182C23"/>
+      <path d="M430 132L450 92L466 114L477 100L498 132Z" stroke="#82A472" stroke-width="2"/>
+</svg>

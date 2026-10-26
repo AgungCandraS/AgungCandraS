@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Agung Candra Saputra — Web &amp; desktop developer</title>
+  <desc id="desc">Nama Agung Candra Saputra pada bidang charcoal dengan aksen lime dan ilustrasi antarmuka aplikasi yang bergerak perlahan.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#27312B" stroke-width="1"/></pattern>
+    <linearGradient id="fade"><stop stop-color="#101612"/><stop offset="1" stop-color="#17231B"/></linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="20" fill="#101612"/>
+  <path d="M704 0H1180Q1200 0 1200 20V440Q1200 460 1180 460H704Z" fill="url(#fade)"/>
+  <path d="M704 0H1180Q1200 0 1200 20V370H704Z" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="48" y="40" width="38" height="38" rx="10" fill="#D4F77D"/>
+    <path d="M56 65L62 51L68 65M58 61H66M77 52C69 49 68 67 77 64" stroke="#101612" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="101" y="65" font-size="19" fill="#C5CFC3">AGUNGCANDRAS</text>
+    <text x="1152" y="64" text-anchor="end" font-family="Consolas, monospace" font-size="15" letter-spacing="2" fill="#A2B49F">CODE / DESIGN / BUILD</text>
+    <g fill="#F3F5EC" font-size="76" font-weight="700" letter-spacing="-3">
+      <text x="44" y="183">Agung Candra</text>
+      <text x="44" y="264">Saputra<tspan fill="#D4F77D">.</tspan></text>
+    </g>
+    <text x="48" y="315" font-size="25" fill="#BCC8B9">Web &amp; desktop developer.</text>
+    <path d="M48 373H1152" stroke="#354232"/>
+    <g font-size="15" font-family="Consolas, monospace" letter-spacing="1" fill="#C5CFC3">
+      <text x="48" y="418">TYPESCRIPT / PYTHON / GO</text>
+      <text x="1152" y="418" text-anchor="end" fill="#D4F77D">WEB. DESKTOP. BACKEND.</text>
+    </g>
+  </g>
+  <g stroke="#455540">
+    <ellipse cx="942" cy="222" rx="188" ry="120" transform="rotate(-22 942 222)"/>
+    <path d="M772 309L1124 135M800 121L1086 328" stroke-dasharray="3 9"/>
+  </g>
+  <circle r="5" fill="#D4F77D"><animateMotion dur="8s" repeatCount="indefinite" path="M769 257A188 120 -22 1 1 1115 187A188 120 -22 1 1 769 257"/></circle>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="8s" repeatCount="indefinite"/>
+    <rect x="821" y="134" width="278" height="188" rx="14" fill="#0B100C"/>
+    <rect x="807" y="120" width="278" height="188" rx="14" fill="#1D2B20" stroke="#617554"/>
+    <path d="M807 157H1085" stroke="#455540"/>
+    <circle cx="827" cy="139" r="4" fill="#D4F77D"/>
+    <circle cx="841" cy="139" r="4" fill="#71816A"/>
+    <circle cx="855" cy="139" r="4" fill="#71816A"/>
+    <text x="1067" y="143" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#B2C1A9">workspace</text>
+    <path d="M858 195L837 216L858 237M916 195L937 216L916 237M899 187L877 245" stroke="#D4F77D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="964" y="192" width="92" height="6" rx="3" fill="#788F6C"/>
+    <rect x="964" y="211" width="67" height="6" rx="3" fill="#4A5E40"/>
+    <rect x="964" y="230" width="82" height="6" rx="3" fill="#4A5E40"/>
+    <rect x="831" y="272" width="230" height="4" rx="2" fill="#354630"/>
+    <rect x="831" y="272" width="94" height="4" rx="2" fill="#D4F77D"><animate attributeName="width" values="94;196;94" dur="8s" repeatCount="indefinite"/></rect>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="8s" repeatCount="indefinite"/>
+    <rect x="1061" y="87" width="76" height="76" rx="16" fill="#D4F77D"/>
+    <ellipse cx="1099" cy="110" rx="18" ry="7" stroke="#263A1D" stroke-width="2"/>
+    <path d="M1081 110V139C1081 148 1117 148 1117 139V110M1081 124C1081 133 1117 133 1117 124" stroke="#263A1D" stroke-width="2"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 5;0 0" dur="8s" repeatCount="indefinite"/>
+    <rect x="751" y="267" width="89" height="77" rx="16" fill="#243628" stroke="#617554"/>
+    <path d="M777 286H800L813 299V326H777Z" stroke="#D4F77D" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M799 286V300H813M785 309H804M785 316H799" stroke="#D4F77D" stroke-width="2"/>
+  </g>
+</svg>
